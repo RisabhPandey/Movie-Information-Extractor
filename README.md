@@ -3,9 +3,9 @@
 > Turn an unstructured movie or TV-series description into clean,
 > structured information with AI.
 
-**Live Demo:** https://movie-information-extractor-01-22.streamlit.app/\
-**GitHub Repository:**
-https://github.com/RisabhPandey/Movie-Information-Extractor
+**Live Demo:** https://movie-information-extractor-01-22.streamlit.app
+
+**GitHub Repository:** https://github.com/RisabhPandey/Movie-Information-Extractor
 
 ## Overview
 
